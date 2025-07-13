@@ -1,4 +1,4 @@
-## Hii, I'm Auri!
+## Hii, I'm Aurelio!
 
 
 ⭐ -- I'm a 42 student in Rome, learning how to program in C language!<br/>
