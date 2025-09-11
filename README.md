@@ -1,16 +1,17 @@
-## Hii, I'm Aurelio!
+<h1 align="center">Hi, my name's Aurelio👾</h1>
+<h3 align="center">Programming was my dream as kid (it looked cool, but I didn't understand what was going on)</h3>
 
+- ⭐️ I’m currently working on **a sorting-algorithm based project called push_swap**
 
-⭐ -- I'm a 42 student in Rome, learning how to program in C language!<br/>
+- 🌱 I’m currently learning **both C (at 42 school) and python (freestyling)**
 
-📚 -- I have a bachelor degree in Philosophy <br/>
+- 💬 Ask me about **the book I'm currently reading 📚**
 
-⭐ -- Currently working on push_swap and learning sorting algorithms!<br/>
+- ⚡ Fun fact **I watched over 30 seasons of Rupaul's drag race in 6 months. I'm committed BOOTS**
 
-⭐ -- I love reading (ask me about my favourite books!) and listening to music (ask me my favourite album)<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-⭐ -- Fun Fact: the beatles' career was roughly seven years long, meaning they produced 2 albums per year<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auriflr&show_icons=true&locale=en&layout=compact" alt="auriflr" /></p>
 
-![Auriflr's GitHub stats](https://github-readme-stats.vercel.app/api?username=auriflr&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auriflr)](https://github.com/auriflr/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auriflr&show_icons=true&locale=en" alt="auriflr" /></p>
