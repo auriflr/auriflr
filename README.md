@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auriflr&label=Profile%20views&color=0e75b6&style=flat" alt="auriflr" /> </p>
 
-- ⭐️ I’m currently working on **a 2D game! and an indie web site (paused)**
+- ⭐️ I’m currently working on **a 2D game! and an indie website (paused)**;
 
-- 🌱 I’m currently learning **mainly C, but I use codedex.io to learn python and html, and i look forward to learning css and java!**
+- 🌱 I’m currently learning **mainly C, but I use codedex.io to learn python and html, and i look forward to learning css and java!**;
 
-- 💬 Outside of programming, **I love reading, listening to music and writing stories!**
+- 💬 Outside of programming, **I love reading, listening to music and writing stories!**;
 
-- 📨 Contact me at: **aureliofloris6@gmail.com**
+- 📨 Contact me at: **aureliofloris6@gmail.com**;
 
 - 🐱 Random fact about me: my favourite pokemons as a kid were **Arcanine, Mew, Kyogre and Cyndaquil (+evolutions)**. Please, picture me like this:
 
