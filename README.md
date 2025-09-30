@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **John Lennon was dyslexic and legally blind**
 
+- Please, picture me like this:
+
+<img src = https://i.pinimg.com/originals/e6/80/2d/e6802d9c0538e25efed9d1cdf3414af9.gif>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
