@@ -1,5 +1,5 @@
-<h1 align="center">
-<img src="https://www.bloggif.com/text?id=bf6d5be0c72da1fb393686dbfdfd7ee1">
+<h1 align="center" color="red">
+Hello! Welcome to my github!
 </h1>
 <h3 align="center">Welcome to my very messy world of codes...</h3>
 
