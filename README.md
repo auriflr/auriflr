@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auriflr&label=Profile%20views&color=0e75b6&style=flat" alt="auriflr" /> </p>
 
-- ⭐️ I’m currently working on **a 2D game! and an indie website (paused)**;
+- ⭐️ I’m currently working on **an indie website & trying to survive exam 03 at 42**;
 
-- 🌱 I’m currently learning **mainly C, but I use codedex.io to learn python and html, and i look forward to learning css and java!**;
+- 🌱 I’m currently learning **mainly C, but also html and css!**;
 
 - 💬 Outside of programming, **I love reading, listening to music and writing stories!**;
 
