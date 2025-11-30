@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! My name is Aurelio 👾</h1>
+<h1 align="center">
+<img src="https://www.bloggif.com/text?id=bf6d5be0c72da1fb393686dbfdfd7ee1">
+</h1>
 <h3 align="center">Welcome to my very messy world of codes...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auriflr&label=Profile%20views&color=0e75b6&style=flat" alt="auriflr" /> </p>
