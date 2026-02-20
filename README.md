@@ -5,7 +5,7 @@ Hello! Welcome to my github!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auriflr&label=Profile%20views&color=0e75b6&style=flat" alt="auriflr" /> </p>
 
-- ⭐️ I’m currently working on **an indie website & trying to survive exam 03 at 42**;
+- ⭐️ I’m currently working on **coding my solution to the dining philosophers problem**, as a 42 project;
 
 - 🌱 I’m currently learning **mainly C, but also html and css!**;
 
@@ -13,7 +13,7 @@ Hello! Welcome to my github!
 
 - 📨 Contact me at: **aureliofloris6@gmail.com**;
 
-- 🐱 Random fact about me: my favourite pokemons as a kid were **Arcanine, Mew, Kyogre and Cyndaquil (+evolutions)**. Please, picture me like this:
+Please, picture me like this:
 
 <img src=https://i.pinimg.com/originals/e6/80/2d/e6802d9c0538e25efed9d1cdf3414af9.gif>
 
